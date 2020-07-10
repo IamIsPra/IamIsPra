@@ -8,4 +8,4 @@ Let me introduce myself,
 - 🔭 I’m currently working on a top secret mission 🤫 I'll tell you later. 😉
 - 🌱 I’m currently learning [React Native](https://github.com/facebook/react-native).
 - 💬 Ask me about AR/ VR
-- 📫 How to reach me: [@IamIsPra](https://twitter.com/IamIsPra)
+- 📫 How to reach me: ![Twitter](http://i.imgur.com/tXSoThF.png) [@IamIsPra](https://twitter.com/IamIsPra)
