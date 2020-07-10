@@ -1,4 +1,4 @@
-![Isuru Prabath](signature.gif)
+![Isuru Prabath](https://raw.githubusercontent.com/IamIsPra/IamIsPra/master/signature.gif)
 
 ## Hey there 👋
 
