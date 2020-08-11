@@ -10,4 +10,6 @@ Let me introduce myself,
 - 💬 Ask me about AR/ VR
 - 📫 How to reach me: [@IamIsPra](https://twitter.com/IamIsPra)![Twitter](http://i.imgur.com/tXSoThF.png)   |   [fb.me/isuru.prabath](https://www.facebook.com/isuru.prabath)![Twitter](http://i.imgur.com/P3YfQoD.png)
 
-![IamIsPra's github stats](https://github-readme-stats.vercel.app/api?username=IamIsPra&show_icons=true&theme=radical)
+![IamIsPra's github stats](https://github-readme-stats.vercel.app/api?username=IamIsPra&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamIsPra&layout=compact)](https://github.com/IamIspra)
