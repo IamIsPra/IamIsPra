@@ -1,14 +1,24 @@
-![Isuru Prabath](https://raw.githubusercontent.com/IamIsPra/IamIsPra/master/signature.gif)
+👋 Hey there, fellow human or possibly advanced AI trying to blend in! Welcome to my little corner of the GitHub universe! 🌌
 
-## Hey there 👋
+### 🚀 About Me:
+I'm a self-proclaimed code whisperer 🤫 who spends more time talking to my terminal than to real people (don't judge!). My mission is to make the world a better place through the power of hilarious, yet functional code! 😄
 
-Let me introduce myself,
+### 💻 Code is my caffeine:
+I run on coffee, memes, and late-night coding sessions 🌙. If you see me without my keyboard, I'm either asleep or in a parallel universe (more likely the latter).
 
-- 😁 I'm a Computer guy who speaks Java, Javascript, PHP and C#.
-- 🔭 I’m currently working on a top secret mission 🤫 I'll tell you later. 😉
-- 🌱 I’m currently learning [React Native](https://github.com/facebook/react-native).
-- 💬 Ask me about AR/ VR
-- 📫 How to reach me: [@IamIsPra](https://twitter.com/IamIsPra)![Twitter](http://i.imgur.com/tXSoThF.png)   |   [fb.me/isuru.prabath](https://www.facebook.com/isuru.prabath)![Twitter](http://i.imgur.com/P3YfQoD.png)
+### 🐛 Bug squasher by day, meme maker by night:
+When I'm not battling bugs, I'm crafting memes that could potentially break the internet (or just make my friends groan loudly).
+
+### 🎶 Fun fact:
+I've written more lines of code than I've had hot meals, which probably explains my microwave's loneliness. 🍔🍕
+
+### 🔮 Future plans:
+To build a time machine and travel to the future to see if my code is still relevant or if it's become an ancient relic. Wish me luck on my temporal adventure! ⏳🚀
+
+### 📈 Let's connect and collab:
+If you have a project idea or just want to discuss the meaning of life (42, right?), hit me up! I promise to respond faster than a caffeine-fueled compiler! ☕🏎️
+
+So, grab a virtual chair, and let's make the coding world a little funnier, one commit at a time! Happy coding! 😄🚀
 
 ![IamIsPra's github stats](https://github-readme-stats.vercel.app/api?username=IamIsPra&show_icons=true)
 
